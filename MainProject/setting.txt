@@ -1,0 +1,6 @@
+PNGTEST\1.jpg
+PNGTEST\2.jpg
+PNGTEST\3.jpg
+?
+31
+PNGOUTPUT
