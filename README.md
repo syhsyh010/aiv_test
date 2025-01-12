@@ -28,4 +28,4 @@ OpenCV의 blur기능과 직접 구현한 blur기능의 성능 차이 비교
 
 
 
-
+이미지 출처 : https://images.nasa.gov/
